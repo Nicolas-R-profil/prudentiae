@@ -66,3 +66,11 @@ html {
     right: 2%;
 }
 
+.note{
+    position: absolute;
+    font-style:italic;
+    background:rgba(239, 243, 239, 0.5);
+    top: 0%;
+    left:  30%;
+}
+
