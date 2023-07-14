@@ -4,7 +4,7 @@ html {
     font-weight:bold;
 }
 
-.bgimg{background-image: url('../img/wordcloud.png');
+.bgimg{background-image: url('../img/resizedwordcloud.png');
     background-position: center;
     background-size: contain;
 }
