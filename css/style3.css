@@ -6,8 +6,8 @@ html {
 
 .bgimg{background-image: url('../img/resizedwordcloud.png');
     background-position: center;
-    background-size: contain;
 }
+
 .rel{
     position: absolute;
     top: 10px;
