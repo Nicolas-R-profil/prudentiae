@@ -6,6 +6,9 @@ html {
 
 .bgimg{background-image: url('../img/resizedwordcloud.png');
     background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .rel{
