@@ -4,11 +4,11 @@ html {
     font-weight:bold;
 }
 
-.bgimg{background-image: url('../img/resizedwordcloud.png');
-    background-position: center;
+.bgimg{
+    background-image: url('../img/resizedwordcloud.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .rel{
